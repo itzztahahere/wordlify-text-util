@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.834c6852.css","mappings":"AAAA,YAGI,YAAQ,CAFR,YAAa,CAEb,OAAQ,CADR,4CAA8C,CAE9C,6BAEF","sources":["index.css"],"sourcesContent":[".toBeStyled{\r\n    display: grid;\r\n    grid-template-columns: repeat(auto-fit, 220px);\r\n    gap: 5px;\r\n    justify-content: space-between;\r\n    \r\n  }"],"names":[],"sourceRoot":""}
