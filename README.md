@@ -1,5 +1,6 @@
 Wordlify | A React based text utility application
-This is a change
+
+Pushing to github
 Functionalities:
  > Can convert text to lowercase, UPPERCASE, Proper Case
 > 
